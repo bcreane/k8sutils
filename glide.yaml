@@ -1,0 +1,3 @@
+package: github.com/bcreane/k8sutils
+import:
+- package: k8s.io/client-go
