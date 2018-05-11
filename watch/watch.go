@@ -1,3 +1,4 @@
+// Copyright 2018, Brendan Creane
 // All rights reserved.
 //
 // This code is licensed under the MIT License.
